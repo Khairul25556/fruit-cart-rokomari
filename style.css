@@ -1,0 +1,25 @@
+body{
+    background-color: #121212;
+    color: #fff;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.product{
+    background: #1e1e1e;
+    border: 1px solid #333;
+    padding: 15px;
+    margin: 10px 0;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background 0.2s;
+}
+
+.product:hover{
+    background: #333;
+}
+
+#total{
+    margin-top: 20px;
+    font-size: 1.2em;
+}
