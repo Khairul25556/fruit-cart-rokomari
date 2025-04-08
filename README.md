@@ -16,4 +16,4 @@ Welcome to **Rokomari Fruits Store**, a simple web app where you can browse and 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/rokomari-fruit-store.git
+   git clone https://github.com/Khairul25556/rokomari-fruit-store.git
